@@ -298,7 +298,7 @@ footer.foot{border-top:1px solid var(--line);padding:26px 0 100px;color:var(--mu
 <main class="wrap" id="overview">
   <div class="hero">
     <span class="tag"><svg class="i" style="width:14px;height:14px"><use href="#i-pulse"/></svg> CORPORATE LAN · 5 VLANs</span>
-    <h1>Your office network, at a glance.</h1>
+   <h1>Corporate Network — CI/CD Deployment Verified!</h1>
     <p>Explore the topology, test how departments reach shared services, and break things on purpose to see what happens.</p>
     <div class="hero-actions">
       <a class="btn btn-accent" href="#diagnostics"><svg class="i"><use href="#i-play"/></svg> Run a test</a>
