@@ -2,9 +2,10 @@
 pipeline {
     agent any
 
-    environment {
-        IMAGE_NAME = 'unaxpro/corporate-office-cicd'
-    }
+  environment {
+    IMAGE_NAME = 'unaxpro/corporate-office-cicd'
+    KUBECONFIG = '/var/lib/jenkins/.kube/config'
+}
 
     stages {
         stage('Checkout') {
