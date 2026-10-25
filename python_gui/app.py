@@ -16,7 +16,7 @@ PAGE = r"""
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Coreline | Corporate Network Operations</title>
+<title>Coreline | Corporate Network Operations - CI/CD Updated</title>
 <script>try{var t=localStorage.getItem('cl-theme');if(!t)t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';document.documentElement.dataset.theme=t}catch(e){}</script>
 <style>
 :root{
